@@ -17,4 +17,4 @@ sudo installer -pkg ignitecli-0.1.0.pkg -target /
 
 ## License
 
-MIT
+Apache 2.0
